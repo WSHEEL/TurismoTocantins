@@ -13,7 +13,7 @@ footer{
     color: white !important;
 }
 .img-car{
-    max-height: 600px !important;
+    max-height: 50em !important;
 }
 
 .divisão{
@@ -22,4 +22,10 @@ footer{
     color: white !important;
     padding: 3em !important;
     margin-bottom: 5m !important;
+}
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.719) !important;
+}
+.Turismo{
+max-height: 3;
 }
