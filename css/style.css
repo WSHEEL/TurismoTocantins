@@ -21,11 +21,28 @@ footer{
     text-align: center !important;
     color: white !important;
     padding: 3em !important;
-    margin-bottom: 5m !important;
+    
 }
 .carousel-caption{
     background-color: rgba(0, 0, 0, 0.719) !important;
 }
 .Turismo{
 max-height: 3;
+}
+.sec-pacotes{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 1% !important
+}
+.card{
+    padding: 1%;
+    margin: 0% 1% 1% 0% !important;
+}
+
+.card p{
+    text-align: justify !important;
+}
+.card h4{
+color: brown !important;
 }
