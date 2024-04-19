@@ -46,3 +46,16 @@ max-height: 3;
 .card h4{
 color: brown !important;
 }
+.sec-contatos{
+    margin-top: 5% !important;
+    margin-bottom: 5% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important; 
+}
+
+.card-text{
+    font-size: 20px !important;
+}
+.btn-card{
+    margin-bottom: 1% !important;
+}
